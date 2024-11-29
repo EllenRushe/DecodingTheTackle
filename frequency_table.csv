@@ -1,0 +1,112 @@
+Variable value, Frequency count
+0. Team,
+ Finished bottom3 in 6N championship,620
+ Finished top3 in 6N championship,580
+1. Previous phase,
+ Unstructured,870
+ Lineout,147
+ Scrum,104
+ Restart,79
+2. Pass number,
+ 0-3 passes,1124
+ 4-6 passes,76
+3. Match period,
+ 2nd quarter,315
+ 3rd quarter,311
+ 1st quarter,294
+ 4th quarter,280
+4. Defensive direction,
+ Forwards,717
+ Lateral,246
+ No direction,152
+ Backwards,85
+5. Number of defenders,
+ 1 defender,637
+ 2 defenders,557
+ 3 defenders,6
+6. Defender being coded,
+ 1st defender,922
+ 2nd defender,278
+7. Tackle sequence,
+ 1v1,610
+ def seq,465
+ def seq att seq,57
+ def sim,29
+ 1v2,25
+ def sim att seq,14
+8. Positional grouping of tackler,
+ forwards,690
+ backs,510
+9. Positional grouping of ball-carrier,
+ forwards,685
+ backs,515
+10. Distance from ball-carrier,
+ mod,528
+ distant,414
+ near,258
+11. Defensive team performance,
+ winning,544
+ losing,421
+ drawing,235
+12. Anticipation of ball-carrier,
+ Apparent anticipation,1175
+ Absent anticipation,25
+13. Come to balance,
+ Apparent CTB,737
+ Absent CTB,463
+14. Body position of tackler,
+ Bent at waist,852
+ Upright,348
+15. Body position of ball-carrier,
+ carrier - upright,689
+ carrier - bent at waist,511
+16. Drop height,
+ Absent DH,625
+ Apparent Drop height,575
+17. Dominant contact angle,
+ Absent DCA,928
+ Apparent DCA,272
+18. Tackler head position,
+ Away or down (incorrect),617
+ U+F,583
+19. Tackler arm position,
+ Down or HAS,918
+ Correct-boxer,282
+20. Tackler foot placement close to BC,
+ distant FP,941
+ close FP,259
+21. Tacklers shoulders infront of hips,
+ Shoulders in front of hips,718
+ Shoulders in line or behind hips,482
+22. Speed of tackler,
+ Mod,589
+ +Slow,336
+ Fast,275
+23. Speed of BC,
+ Fast,679
+ Mod,392
+ Slow,129
+24. BC direction of movement,
+ Straight,389
+ SStep,355
+ Diagonal,281
+ Arc,122
+ Lateral,53
+25. Orientation of tackler,
+ In front or oblique,656
+ Side or behind,544
+26. Tackle type,
+ arm jersey tap,759
+ shoulder,441
+27. Direction of tackle,
+ side or behind,777
+ oblique front-on,423
+28. Tackler head placement,
+ beside above or behind,998
+ infront,202
+29. Body region struck on tackler,
+ Anywhere else,1134
+ Head and neck,66
+30. Body region struck on BC,
+ Anywhere else,1124
+  Head and neck,76
