@@ -149,9 +149,6 @@ if not os.path.exists(image_dir) : os.mkdir(image_dir)
 with open(os.path.join(data_dir, "human_readable_labels_features.json"), 'rb') as f:
     readable_features_map = json.load(f)
     
-with open(os.path.join(data_dir, "human_readable_labels_target.json"), 'rb') as f:
-    readable_target_map = json.load(f)  
-    
 train_df = pd.read_csv(os.path.join(data_dir, "train_31_vars.csv"))
 test_df = pd.read_csv(os.path.join(data_dir, "test_31_vars.csv"))
 
